@@ -4,6 +4,11 @@
 
 QB-Scoreboard is an enhanced scoreboard resource for FiveM QBCore framework. This modern and feature-rich scoreboard provides server administrators and players with a clean interface to view server information, player lists, and job statistics.
 
+
+![image_alt](https://github.com/aboahmad-dev/qb-scoreboard/blob/b8c44fcb8a0a427f3b2032598b7ef2d777d32b95/s1.png) , ![image_alt](https://github.com/aboahmad-dev/qb-scoreboard/blob/b8c44fcb8a0a427f3b2032598b7ef2d777d32b95/s2.png)
+ , ![image_alt](https://github.com/aboahmad-dev/qb-scoreboard/blob/b8c44fcb8a0a427f3b2032598b7ef2d777d32b95/s3.png) , ![image_alt](https://github.com/aboahmad-dev/qb-scoreboard/blob/b8c44fcb8a0a427f3b2032598b7ef2d777d32b95/s4.png)
+
+
 ## ✨ Features
 
 - **Modern UI Design**: Clean, responsive interface with smooth animations
